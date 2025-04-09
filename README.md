@@ -2,6 +2,6 @@
  
  
  i have started a javascript language for dynamic features.
- 
+ I have started to prepare and skilling up in JavaScript
 
   
